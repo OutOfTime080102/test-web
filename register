@@ -172,9 +172,9 @@
               height: 30px;
               left: 2.5px;
               position: absolute;
-              background-color: #bababa;
+        
             "
-            src="https://cdn.glitch.global/cf7aade4-5867-4f81-afd5-170de152e67a/Property%201%3DUsers%2C%20Property%202%3Daccount.svg?v=1688527910685"
+            src="https://cdn.glitch.global/cf7aade4-5867-4f81-afd5-170de152e67a/index1.svg?v=1688540157702"
           />
         </div>
         <div
@@ -232,9 +232,8 @@
               height: 30px;
               left: 2.5px;
               position: absolute;
-              background-color: #bababa;
             "
-            src="https://cdn.glitch.global/cf7aade4-5867-4f81-afd5-170de152e67a/Vector%20(1).svg?v=1688527907636"
+            src="https://cdn.glitch.global/cf7aade4-5867-4f81-afd5-170de152e67a/index2.svg?v=1688540321938"
           />
         </div>
         <div
@@ -291,9 +290,8 @@
               height: 30px;
               left: 2.5px;
               position: absolute;
-              background-color: #bababa;
             "
-            src="https://cdn.glitch.global/cf7aade4-5867-4f81-afd5-170de152e67a/Vector.svg?v=1688527906940"
+            src="https://cdn.glitch.global/cf7aade4-5867-4f81-afd5-170de152e67a/index.svg?v=1688539996101"
           />
         </div>
         <div
@@ -350,9 +348,8 @@
               height: 30px;
               left: 3px;
               position: absolute;
-              background: #bababa;
             "
-            src="https://cdn.glitch.global/cf7aade4-5867-4f81-afd5-170de152e67a/Property%201%3DSecurity%2C%20Property%202%3Dlock%20key.svg?v=1688528430350"
+            src="https://cdn.glitch.global/cf7aade4-5867-4f81-afd5-170de152e67a/Icon.svg?v=1688540367692"
           />
         </div>
         <div
@@ -422,9 +419,8 @@
               height: 30px;
               left: 3px;
               position: absolute;
-              background: #bababa;
             "
-            src="https://cdn.glitch.global/cf7aade4-5867-4f81-afd5-170de152e67a/Property%201%3DSecurity%2C%20Property%202%3Dlock%20key.svg?v=1688528430350"
+            src="https://cdn.glitch.global/cf7aade4-5867-4f81-afd5-170de152e67a/Icon.svg?v=1688540367692"
           />
         </div>
         <div
@@ -456,6 +452,48 @@
         </div>
       </div>
       <div
+        style="
+          width: 523px;
+          height: 55px;
+          left: 852px;
+          top: 810px;
+          position: absolute;
+        "
+      >
+        <input
+          type="button"
+          style="
+            width: 523px;
+            height: 55px;
+            left: 0px;
+            top: 0px;
+            position: absolute;
+            background: #c32270;
+            border-radius: 10px;
+            border-left: 1px white solid;
+            border-top: 1px white solid;
+            border-right: 1px white solid;
+            border-bottom: 1px white solid;
+          "
+        />
+        <div
+          style="
+            left: 215px;
+            top: 16px;
+            position: absolute;
+            color: white;
+            font-size: 18px;
+            font-family: Quicksand;
+            font-weight: 500;
+            word-wrap: break-word;
+          "
+        >
+          Đăng ký
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
         style="
           width: 523px;
           height: 55px;
